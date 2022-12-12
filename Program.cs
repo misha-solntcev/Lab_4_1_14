@@ -23,7 +23,7 @@ namespace Lab_4_1_14
                         count++;                
                 if (count > 0)
                     Console.WriteLine($"A[i]={A[i]}, count={count}");
-            }
+            }            
             Console.ReadKey();
         }
     }
